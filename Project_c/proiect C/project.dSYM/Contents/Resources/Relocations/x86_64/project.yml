@@ -1,0 +1,25 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/raulperes/Desktop/Project_c/proiect C/project'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100001260, symSize: 0x1A0 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _deposit_amount, symBinAddr: 0x100004004, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _withdraw_amount, symBinAddr: 0x100004008, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _bet, symBinAddr: 0x100004000, symSize: 0x0 }
+  - { offsetInCU: 0x88, offset: 0x88, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100001260, symSize: 0x1A0 }
+  - { offsetInCU: 0xCF, offset: 0xCF, size: 0x8, addend: 0x0, symName: _registerlogin, symObjAddr: 0x1A0, symBinAddr: 0x100001400, symSize: 0x360 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: _deposit, symObjAddr: 0x500, symBinAddr: 0x100001760, symSize: 0xF0 }
+  - { offsetInCU: 0x15D, offset: 0x15D, size: 0x8, addend: 0x0, symName: _withdraw, symObjAddr: 0x5F0, symBinAddr: 0x100001850, symSize: 0x130 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: _account_details, symObjAddr: 0x720, symBinAddr: 0x100001980, symSize: 0xC0 }
+  - { offsetInCU: 0x1E3, offset: 0x1E3, size: 0x8, addend: 0x0, symName: _blackjack, symObjAddr: 0x7E0, symBinAddr: 0x100001A40, symSize: 0x440 }
+  - { offsetInCU: 0x2C8, offset: 0x2C8, size: 0x8, addend: 0x0, symName: _HiLo, symObjAddr: 0xC20, symBinAddr: 0x100001E80, symSize: 0x1F0 }
+  - { offsetInCU: 0x31B, offset: 0x31B, size: 0x8, addend: 0x0, symName: _logout, symObjAddr: 0xE10, symBinAddr: 0x100002070, symSize: 0x60 }
+  - { offsetInCU: 0x345, offset: 0x345, size: 0x8, addend: 0x0, symName: _checkAccount, symObjAddr: 0xE70, symBinAddr: 0x1000020D0, symSize: 0x150 }
+  - { offsetInCU: 0x3AA, offset: 0x3AA, size: 0x8, addend: 0x0, symName: _getAccountBalance, symObjAddr: 0xFC0, symBinAddr: 0x100002220, symSize: 0x150 }
+  - { offsetInCU: 0x42C, offset: 0x42C, size: 0x8, addend: 0x0, symName: _manageAccount, symObjAddr: 0x1110, symBinAddr: 0x100002370, symSize: 0xD0 }
+  - { offsetInCU: 0x470, offset: 0x470, size: 0x8, addend: 0x0, symName: _updateAccountBalance, symObjAddr: 0x11E0, symBinAddr: 0x100002440, symSize: 0x240 }
+  - { offsetInCU: 0x4F4, offset: 0x4F4, size: 0x8, addend: 0x0, symName: _print_card, symObjAddr: 0x1420, symBinAddr: 0x100002680, symSize: 0x1F0 }
+  - { offsetInCU: 0x518, offset: 0x518, size: 0x8, addend: 0x0, symName: _get_card, symObjAddr: 0x1610, symBinAddr: 0x100002870, symSize: 0x20 }
+  - { offsetInCU: 0x531, offset: 0x531, size: 0x8, addend: 0x0, symName: _menu, symObjAddr: 0x1630, symBinAddr: 0x100002890, symSize: 0x70 }
+  - { offsetInCU: 0x546, offset: 0x546, size: 0x8, addend: 0x0, symName: _menu2, symObjAddr: 0x16A0, symBinAddr: 0x100002900, symSize: 0x30 }
+...
