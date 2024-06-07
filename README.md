@@ -65,7 +65,3 @@ Go to your compiler, open the `project.c` file, and run it with the compiler. Yo
 ### Logout:
 1. Select **Logout** from the main menu.
 2. Your account balance will be saved, and you will be logged out.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
